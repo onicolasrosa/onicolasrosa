@@ -1,16 +1,20 @@
-### Hi there 👋
+***
+### Hello there, I'm Nicolas Rosa AKA Video 🤘
 
-<!--
-**onicolasrosa/onicolasrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+😊   I can help you with: </br>
+- [x] C; </br>
+- [x] HTML & CSS; </br>
+- [x] Python; </br>
+- [ ] Java (studying). </br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🏢 Searching for my first job oportunity as a trainee </br>
+-🏛️ Currently undergadruate at UNICAMP </br>
+-🕹️ I love music, animes and video games <br/>
+
+:email: &nbsp; Get in touch with me:
+[![Linkedin Badge](https://img.shields.io/badge/-onicolasrosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onicolasrosa/)](https://www.linkedin.com/in/onicolasrosa/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-onicolasrosa@gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onicolasrosa@gmail.com)](mailto:onicolasrosa@gmail.com)
+
