@@ -1,5 +1,5 @@
 ***
-### Hello there, I'm Nicolas Rosa AKA Video 🤘
+### Hello there, I'm Nicolas Rosa AKA Vídeo 🤘
 
 ***
 
