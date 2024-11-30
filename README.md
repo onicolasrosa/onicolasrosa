@@ -7,7 +7,7 @@
 - [x] C; </br>
 - [x] HTML & CSS; </br>
 - [x] Python; </br>
-- [ ] Java (studying). </br> 
+- [x] Working with ABAP SAP. </br> 
 
 -🏢 Intern Software Engineer at John Deere </br>
 -🏛️ Currently undergadruate at UNICAMP </br>
