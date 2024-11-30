@@ -9,7 +9,7 @@
 - [x] Python; </br>
 - [ ] Java (studying). </br> 
 
--🏢 Searching for my first job oportunity as a trainee </br>
+-🏢 Intern Software Engineer at John Deere </br>
 -🏛️ Currently undergadruate at UNICAMP </br>
 -🕹️ I love music, animes and video games <br/>
 
